@@ -1,7 +1,7 @@
 <div class="properties-content">
 					<article id="property-7818" class="post-7818 noo_property type-noo_property status-publish has-post-thumbnail hentry property_category-single-family-home property_location-coral-gables property_status-sales has-featured">
 			    <div class="property-featured">
-				<a class="content-thumb" href="http://www.saggiorealty.com/properties/630-leucadendra-dr/">
+			    				        <a class="content-thumb" href="http://www.saggiorealty.com/properties/630-leucadendra-dr/">
 						<img width="370" height="300" src="http://www.saggiorealty.com/wp-content/uploads/2016/01/0-full-2-370x300.jpg" class="attachment-property-thumb size-property-thumb wp-post-image" alt="0-full" />					</a>
 															<span class="property-category"><a href="http://www.saggiorealty.com/listings/single-family-home/" rel="tag">Single Family Home</a></span>
 			    </div>
